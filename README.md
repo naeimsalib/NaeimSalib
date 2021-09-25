@@ -1,8 +1,7 @@
 <h1> Hi there, Here is What I am Working on 👋</h1?>
 
 
-
-Here are some ideas to get you started:
+<br />
 
 - 🔭 I’m currently working obtaining my bachelors degree from Staten Island College(Expected Graduation December 2021).
 - I work as a Quality Project Engineer at Samsung.
