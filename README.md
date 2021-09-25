@@ -2,9 +2,8 @@
 
 
 <br /><br/>
-
 <ul>
-<li><p> 🔭 I’m currently working obtaining my bachelors degree from Staten Island College(Expected Graduation December 2021).</p></li>
+<li> 🔭 I’m currently working obtaining my bachelors degree from Staten Island College(Expected Graduation December 2021).</li>
 <li> I work as a Quality Project Engineer at Samsung.</li>
 <li> My Dream Job is to become a Software Engineer and Help make the world a better place for everyone</li>
 <li> 💬 Ask me about anything</li>
