@@ -3,14 +3,16 @@
 
 <br /><br/>
 
-- 🔭 I’m currently working obtaining my bachelors degree from Staten Island College(Expected Graduation December 2021).
-- I work as a Quality Project Engineer at Samsung.
-- My Dream Job is to become a Software Engineer and Help make the world a better place for everyone
-- 💬 Ask me about anything
-- 📫 How to reach me: [Linkden](https://www.linkedin.com/in/naeimsalib/)
-- 😄 How to Pronounce my name : (NA - E -M)
-- ⚡ Fun fact: I love Working on Cars and turning a Junk car to a reliable everyday driving car.
-- My Dream Project: Is to Get a car with a manual transmission and Build it in to a Drift/race Car
+<ul>
+<li>- 🔭 I’m currently working obtaining my bachelors degree from Staten Island College(Expected Graduation December 2021).</li>
+<li>- I work as a Quality Project Engineer at Samsung.</li>
+<li>- My Dream Job is to become a Software Engineer and Help make the world a better place for everyone</li>
+<li>- 💬 Ask me about anything</li>
+<li>- 📫 How to reach me: [Linkden](https://www.linkedin.com/in/naeimsalib/)</li>
+<li>- 😄 How to Pronounce my name : (NA - E -M)
+<li>- ⚡ Fun fact: I love Working on Cars and turning a Junk car to a reliable everyday driving car.</li>
+<li>- My Dream Project: Is to Get a car with a manual transmission and Build it in to a Drift/race Car</li>
+</ul>
 
 ### My Top Skills 😁
 
