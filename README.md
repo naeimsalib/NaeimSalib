@@ -1,8 +1,6 @@
 <h1> Hi there, Here is What I am Working on 👋</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeimsalib&show_icons=true&theme=radical)" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeimsalib&show_icons=true&theme=radical)"
 
 
 <br /><br/>
