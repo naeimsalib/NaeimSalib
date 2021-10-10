@@ -1,6 +1,6 @@
 <h1> Hi there, Here is What I am Working on 👋</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeimsalib&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeimsalib&count_private=true&show_icons=true))
 
 
 <br /><br/>
