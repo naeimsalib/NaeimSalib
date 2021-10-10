@@ -5,9 +5,7 @@
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeimsalib&layout=compact&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br /><br/>
+<br />
 <ul>
 <li> 🔭 I’m currently working obtaining my bachelors degree from Staten Island College(Expected Graduation December 2021).</li>
 <li> I work as a Quality Project Engineer at Samsung.</li>
