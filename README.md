@@ -1,10 +1,9 @@
 ![1618891603311](https://user-images.githubusercontent.com/11530670/136682275-e54b1537-3f03-4071-a23d-5c0a19ee0fd4.jpeg)
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaeimSalib&count_private=true&show_icons=true&theme=merko&&hide=stars,prs)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeimsalib&layout=compact&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NaeimSalib&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeimSalib&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <br />
 <ul>
 <li> 🔭 I’m currently working obtaining my bachelors degree from Staten Island College(Expected Graduation December 2021).</li>
