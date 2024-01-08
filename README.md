@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <br/>
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeimsalib)](https://github.com/naeimsalib/github-readme-stats)
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeimsalib&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)](https://github.com/naeimsalib/github-readme-stats)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naeimsalib&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeimsalib&ayout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
